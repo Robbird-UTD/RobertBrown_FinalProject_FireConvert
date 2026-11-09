@@ -5,8 +5,8 @@
 https://github.com/Robbird-UTD/RobertBrown_FinalProject_FireConvert
 
 ## Description
-**What'll it do?:** Converts Fire into black and white with only Black or White using tools.
-**Relevance?:** I will likely use this in the future for my art style. Fire looks cool, but I need to have an easy way to make fire black and white and high contrast quickly for animated fires.
+- **What'll it do?:** Converts Fire into black and white with only Black or White using tools.
+- **Relevance?:** I will likely use this in the future for my art style. Fire looks cool, but I need to have an easy way to make fire black and white and high contrast quickly for animated fires.
 <img width="2048" height="2048" alt="BurningMummy" src="https://github.com/user-attachments/assets/9d1692c4-55c0-40fd-8613-7c74d1c8c24a" /> 
 This is the intended effect I did by hand
 
@@ -25,10 +25,10 @@ This is the intended effect I did by hand
 
 ## Outcomes
 **Ideal Outcome:**
-- Turn videos of fire into a black and white and grey and transparent video of JUST the fire and maybe more. 
+- Turn videos of fire into a black and white (and/or grey) and transparent video of JUST the fire and maybe more features. 
 
 **Minimal Viable Outcome:**
-- Black and white, works with blue screened fire videos, makes video and frames.
+- Transparent and white, works with blue screened fire videos, makes video and frames.
 
 ## Milestones
 
